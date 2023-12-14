@@ -3,6 +3,7 @@
     "short_name": "PWA-TEMP",
     "start_url": "/index.html",
     "display": "standalone",
+    "prefer_related_applications": false,
     "background_color": "#FFE9D2",
     "theme_color": "#FFE1C4",
     "orientation": "portrait-primary",
