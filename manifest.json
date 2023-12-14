@@ -2,7 +2,7 @@
     "name": "PWA Template",
     "short_name": "PWA-TEMP",
     "start_url": "/PWA/index.html",
-    "display": "fullscreen",
+    "display": "standalone",
     "prefer_related_applications": false,
     "background_color": "#FFE9D2",
     "theme_color": "#FFE1C4",
